@@ -4,13 +4,16 @@ Welcome to my Personal Portfolio Website, built with HTML, CSS, and JavaScript. 
 🔗 Live Demo: [🌐 Visit My Portfolio Website](http://portfolio-snowy-five-96.vercel.app)
 
 🚀 Tech Stack
+
 1.Frontend: HTML5, CSS3, JavaScript (Vanilla JS)
 
 2.Deployment: Vercel
 
 📌 Features
 ->Responsive and mobile-friendly design
+
 ->Smooth scrolling and interactive UI
+
 ->Dedicated sections for:
   ->About Me
   ->Skills & Technologies
