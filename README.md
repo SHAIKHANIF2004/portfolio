@@ -10,16 +10,12 @@ Welcome to my Personal Portfolio Website, built with HTML, CSS, and JavaScript. 
 2.Deployment: Vercel
 
 📌 Features
-->Responsive and mobile-friendly design
 
-->Smooth scrolling and interactive UI
+1.Responsive and mobile-friendly design
 
-->Dedicated sections for:
-  ->About Me
-  ->Skills & Technologies
-  ->Projects
-  ->Contact Form
-  ->Clean code with comments for better readability
+2.Smooth scrolling and interactive UI
+
+3.Dedicated sections for:About Me,Skills & Technologies,Projects,Contact Form,Clean code with comments for better readability
 
 🙋‍♂️ About Me
 I am a passionate Full Stack Developer who enjoys turning complex problems into simple, beautiful, and intuitive web applications. I love learning new technologies and continuously improving my skills.
