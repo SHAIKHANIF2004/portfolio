@@ -15,10 +15,12 @@ Welcome to my Personal Portfolio Website, built with HTML, CSS, and JavaScript. 
 
 2.Smooth scrolling and interactive UI
 
-3.Dedicated sections for:About Me,Skills & Technologies,Projects,Contact Form,Clean code with comments for better readability
+3.Dedicated sections for: About Me , Skills & Technologies , Projects , Contact Form , Clean code with comments for better readability
 
 🙋‍♂️ About Me
+
 I am a passionate Full Stack Developer who enjoys turning complex problems into simple, beautiful, and intuitive web applications. I love learning new technologies and continuously improving my skills.
 
 📫 Contact
+
 If you like what you see and want to collaborate or have any opportunities, feel free to reach out via the contact form on the website.
